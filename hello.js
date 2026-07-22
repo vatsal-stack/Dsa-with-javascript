@@ -11,3 +11,10 @@ function solve(arr) {
 }
 
 solve([4, 7, 1, 2, 9, 8]);
+
+
+    if (max > arr[i]) {
+      max = arr[i];
+    }
+  }
+  console.log(max);
